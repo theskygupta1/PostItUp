@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css'
-import Header from './components/header';
+import Header from './components/Header';
 import Sidebar from './components/Sidebar';
 import Footer from './components/Footer';
 import CreatePost from './components/CreatePost';
